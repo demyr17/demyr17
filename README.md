@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @demyr17
 - 👀 I’m a UI / UX design guy
-- 🌱 I’m currently learning PHP/CI4/JS/ and coding projects with them
-- 💞️ I’m looking to collaborate on design section of any project
+- 🌱 I’m a kind of full stack agency guy who is happy to code projects with PHP/CI4/JS/ beside design works
+- ✨ I have been developing some (indie) projects
+- 💞️ I’m happy to collaborate especially on design part of any project
 - 📫 How to reach me ...
 
 <!---

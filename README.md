@@ -2,7 +2,7 @@
 - 👀 I’m a web designer (UI / UX) and trying to improve my developing skills (Php-CodeIgniter/JS/)
 - ✨ I have been working on some side projects / self-entrepreneur
 - 💞️ I’m happy to collaborate especially on design part of any project
-- 📫 How to reach me ...
+- 📫 How to reach me ... hi@ahmetd.com
 
 <!---
 demyr17/demyr17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
